@@ -1,7 +1,7 @@
 {
   "name": "bare-bones-boilerplate",
   "version": "1.0.0",
-  "description": "Simple physics engine that creates bouncing sphere rigid bodies when the canvas area is clicked/touched",
+  "description": "Bare bones JS boilerplate with eslint, mocha/chai, webpack and babel transpiling",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --env.dev",
